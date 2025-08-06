@@ -77,6 +77,9 @@ function Header() {
             </li>
           )}
           <li>
+            <a href="#photowall">Photo Wall</a>
+          </li>
+          <li>
             <a href="#contact">Contact Me</a>
           </li>
           <li>
@@ -90,4 +93,5 @@ function Header() {
     </Headroom>
   );
 }
+
 export default Header;
