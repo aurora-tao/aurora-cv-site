@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/aurora-cv-site/static/css/main.7a9a20f8.css",
-    "main.js": "/aurora-cv-site/static/js/main.785c3ea0.js",
+    "main.js": "/aurora-cv-site/static/js/main.61d080d4.js",
     "static/css/64.bba8fa55.chunk.css": "/aurora-cv-site/static/css/64.bba8fa55.chunk.css",
-    "static/js/64.56dc6704.chunk.js": "/aurora-cv-site/static/js/64.56dc6704.chunk.js",
+    "static/js/64.98920275.chunk.js": "/aurora-cv-site/static/js/64.98920275.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/aurora-cv-site/static/css/769.b3cbb36b.chunk.css",
-    "static/js/769.bda0d7b7.chunk.js": "/aurora-cv-site/static/js/769.bda0d7b7.chunk.js",
+    "static/js/769.88165ab4.chunk.js": "/aurora-cv-site/static/js/769.88165ab4.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/aurora-cv-site/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/gallery1.jpg": "/aurora-cv-site/static/media/gallery1.54423e33a35d52cb1d77.jpg",
     "static/media/Agustina.woff": "/aurora-cv-site/static/media/Agustina.eb0c59dda4cc308cba96.woff",
@@ -13,18 +13,17 @@
     "static/media/contactMailDark.svg": "/aurora-cv-site/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/aurora-cv-site/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/skill.svg": "/aurora-cv-site/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
-    "static/media/resume.pdf": "/aurora-cv-site/static/media/resume.f0f733dd3cd732b39262.pdf",
     "index.html": "/aurora-cv-site/index.html",
     "static/media/talksCardBack.svg": "/aurora-cv-site/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.7a9a20f8.css.map": "/aurora-cv-site/static/css/main.7a9a20f8.css.map",
-    "main.785c3ea0.js.map": "/aurora-cv-site/static/js/main.785c3ea0.js.map",
+    "main.61d080d4.js.map": "/aurora-cv-site/static/js/main.61d080d4.js.map",
     "64.bba8fa55.chunk.css.map": "/aurora-cv-site/static/css/64.bba8fa55.chunk.css.map",
-    "64.56dc6704.chunk.js.map": "/aurora-cv-site/static/js/64.56dc6704.chunk.js.map",
+    "64.98920275.chunk.js.map": "/aurora-cv-site/static/js/64.98920275.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/aurora-cv-site/static/css/769.b3cbb36b.chunk.css.map",
-    "769.bda0d7b7.chunk.js.map": "/aurora-cv-site/static/js/769.bda0d7b7.chunk.js.map"
+    "769.88165ab4.chunk.js.map": "/aurora-cv-site/static/js/769.88165ab4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a9a20f8.css",
-    "static/js/main.785c3ea0.js"
+    "static/js/main.61d080d4.js"
   ]
 }
