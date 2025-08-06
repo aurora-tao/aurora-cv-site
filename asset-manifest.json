@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/aurora-cv-site/static/css/main.93bc41a2.css",
-    "main.js": "/aurora-cv-site/static/js/main.55597bfc.js",
+    "main.js": "/aurora-cv-site/static/js/main.1b7fc0cf.js",
     "static/css/64.bba8fa55.chunk.css": "/aurora-cv-site/static/css/64.bba8fa55.chunk.css",
     "static/js/64.98920275.chunk.js": "/aurora-cv-site/static/js/64.98920275.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/aurora-cv-site/static/css/769.b3cbb36b.chunk.css",
@@ -16,7 +16,7 @@
     "index.html": "/aurora-cv-site/index.html",
     "static/media/talksCardBack.svg": "/aurora-cv-site/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.93bc41a2.css.map": "/aurora-cv-site/static/css/main.93bc41a2.css.map",
-    "main.55597bfc.js.map": "/aurora-cv-site/static/js/main.55597bfc.js.map",
+    "main.1b7fc0cf.js.map": "/aurora-cv-site/static/js/main.1b7fc0cf.js.map",
     "64.bba8fa55.chunk.css.map": "/aurora-cv-site/static/css/64.bba8fa55.chunk.css.map",
     "64.98920275.chunk.js.map": "/aurora-cv-site/static/js/64.98920275.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/aurora-cv-site/static/css/769.b3cbb36b.chunk.css.map",
@@ -24,6 +24,6 @@
   },
   "entrypoints": [
     "static/css/main.93bc41a2.css",
-    "static/js/main.55597bfc.js"
+    "static/js/main.1b7fc0cf.js"
   ]
 }
