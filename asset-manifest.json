@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/aurora-cv-site/static/css/main.7fd3368d.css",
-    "main.js": "/aurora-cv-site/static/js/main.d93853e6.js",
+    "main.css": "/aurora-cv-site/static/css/main.0cd5058e.css",
+    "main.js": "/aurora-cv-site/static/js/main.bb463270.js",
     "static/css/64.bba8fa55.chunk.css": "/aurora-cv-site/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/aurora-cv-site/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/aurora-cv-site/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.bda0d7b7.chunk.js": "/aurora-cv-site/static/js/769.bda0d7b7.chunk.js",
+    "static/media/gallery3.jpg": "/aurora-cv-site/static/media/gallery3.eb0f40c93c09135aabab.jpg",
+    "static/media/gallery2.jpg": "/aurora-cv-site/static/media/gallery2.2ef87bfaf3c5a5db4984.jpg",
     "static/media/Montserrat-Regular.ttf": "/aurora-cv-site/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/concordiaLogo.jpg": "/aurora-cv-site/static/media/concordiaLogo.64957151882ceb3a768d.jpg",
     "static/media/gallery1.jpg": "/aurora-cv-site/static/media/gallery1.54423e33a35d52cb1d77.jpg",
@@ -17,15 +19,15 @@
     "static/media/skill.svg": "/aurora-cv-site/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/aurora-cv-site/index.html",
     "static/media/talksCardBack.svg": "/aurora-cv-site/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.7fd3368d.css.map": "/aurora-cv-site/static/css/main.7fd3368d.css.map",
-    "main.d93853e6.js.map": "/aurora-cv-site/static/js/main.d93853e6.js.map",
+    "main.0cd5058e.css.map": "/aurora-cv-site/static/css/main.0cd5058e.css.map",
+    "main.bb463270.js.map": "/aurora-cv-site/static/js/main.bb463270.js.map",
     "64.bba8fa55.chunk.css.map": "/aurora-cv-site/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/aurora-cv-site/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/aurora-cv-site/static/css/769.b3cbb36b.chunk.css.map",
     "769.bda0d7b7.chunk.js.map": "/aurora-cv-site/static/js/769.bda0d7b7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fd3368d.css",
-    "static/js/main.d93853e6.js"
+    "static/css/main.0cd5058e.css",
+    "static/js/main.bb463270.js"
   ]
 }
